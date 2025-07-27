@@ -18,6 +18,7 @@ interface Ingredient {
     protein: number;
     carbs: number;
     fat: number;
+    servingSize: number;
   };
 }
 
